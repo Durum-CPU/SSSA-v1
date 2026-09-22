@@ -62,6 +62,10 @@ nav {
     box-sizing: border-box;
 }
 
+#eyecatcher {
+    text-align: center;
+}
+
 ul {
     list-style: none;
 }
